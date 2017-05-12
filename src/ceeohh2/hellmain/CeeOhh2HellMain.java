@@ -18,7 +18,7 @@ public class CeeOhh2HellMain
      */
     public static void main ( String[] args )
     {
-        consoleTest();
+        consoleTest(); // test ob pull geht.
     }
     
     private static void consoleTest()
